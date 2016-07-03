@@ -1,3 +1,7 @@
+
+"Git is easy. Git is fun. Thanks Linux!"
+
+
 # Introduction
 
 During the next year you will learn the fundamentals of data science.
